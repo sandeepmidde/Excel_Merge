@@ -1,6 +1,12 @@
-Excel Workbook could have multiple sheets within them.
+Excel Workbook could have multiple sheets within them. Merging excel could be of two types.
 
-The python code can be used - 
-To merge multiple excel files with multiple sheets into one consolidated excel with all the sheets intact as-is.
+Type 1:
+One could merge the excels with multiple sheets within, into a new single excel file with multiple worksheets.
 
-Merges multiple Excel files as-is.
+Type 2:
+One could combine them all into one single excel file with only single worksheet.
+
+The python code can be used for both types.
+
+Sample files Test.xlsx and Train.xlsx have been provided for reference.
+Run each of the code block mentioned independently.
